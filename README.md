@@ -10,12 +10,13 @@ Occasionally I will also write an article on Medium 📰
 
 ---
 
-## 📝 My latest articles:
+## 📝 My latest 5 articles:
+- [Laravel— units tests by AI, Zed and Pest PHP (1st part)](https://medium.com/@lukasz.lupa/laravel-units-tests-by-ai-zed-and-pest-php-1st-part-dc1f802bda99)
+- [Laravel & Docker — basic and simple configuration to get started](https://medium.com/@lukasz.lupa/laravel-docker-basic-and-simple-configuration-to-get-started-27866a2ef035)
 - [The new way of routing in the Laravel framework 🚫](https://medium.com/@lukasz.lupa/the-new-way-of-routing-in-the-laravel-framework-9f0411379a8f)
 - [How your test might look like — Laravel 10 + Pest 🧹](https://medium.com/@lukasz.lupa/how-your-test-might-look-like-laravel-10-pest-79674e064c82)
 - [How your controller might look like — Laravel 10 🧹](https://medium.com/@lukasz.lupa/how-your-controller-might-look-like-laravel-10-42f4f191cbc)
-- [Laravel 9 — correct email validation 🔐](https://medium.com/@lukasz.lupa/laravel-9-correct-email-validation-a3e998e65031)
-- [NestJS + Auth0 🔐](https://medium.com/@lukasz.lupa/nestjs-auth0-a1e387b0ca6)
+- [READ MORE](https://medium.com/@lukasz.lupa)
 
 ---
 

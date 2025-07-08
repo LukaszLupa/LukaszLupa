@@ -2,7 +2,9 @@
 
 I used to call myself a young and inexperienced web developer with big dreams 👊
 
-Time has passed ⏳. Now, I have the experience 💻, I run my own company (Twirelab) 🚀, and my dreams? They’ve only gotten bigger 🌍.
+Time has passed ⏳
+Now, I have the experience 💻
+I run my own company (Twirelab), and my dreams? They’ve only gotten bigger 🌍.
 
 I help businesses build great web applications ⚡, combining Laravel, AdonisJS, Nuxt.js, Next.js, and Gatsby with a strong focus on performance and scalability 🔥.
 

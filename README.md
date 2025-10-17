@@ -11,9 +11,9 @@ I help businesses build great web applications ⚡, combining Laravel, AdonisJS,
 ---
 
 ## 📝 My latest 5 articles:
-- [🧠 PHP Attributes: Because Comments Deserve Retirement Too](https://medium.com/@lukasz.lupa/php-attributes-because-comments-deserve-retirement-too-550708fe25b5)
-- [Is your Laravel code messy? Try the Pipeline Pattern 😎](https://medium.com/@lukasz.lupa/is-your-laravel-code-messy-try-the-pipeline-pattern-4b41850f17ad)
-- [Laravel— units tests by AI, Zed and Pest PHP (1st part)](https://medium.com/@lukasz.lupa/laravel-units-tests-by-ai-zed-and-pest-php-1st-part-dc1f802bda99)
+- [🧠 PHP Attributes: Because Comments Deserve Retirement Too](https://bit.ly/4o6nvX1)
+- [Is your Laravel code messy? Try the Pipeline Pattern 😎](https://bit.ly/3W8ycMz)
+- [Laravel— units tests by AI, Zed and Pest PHP (1st part)](https://bit.ly/3JgkiVG)
 - [Laravel & Docker — basic and simple configuration to get started](https://medium.com/@lukasz.lupa/laravel-docker-basic-and-simple-configuration-to-get-started-27866a2ef035)
 - [The new way of routing in the Laravel framework 🚫](https://medium.com/@lukasz.lupa/the-new-way-of-routing-in-the-laravel-framework-9f0411379a8f)
 - [READ MORE](https://medium.com/@lukasz.lupa)

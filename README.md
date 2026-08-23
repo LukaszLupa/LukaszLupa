@@ -1,12 +1,14 @@
 ## 👋 Hi there!
 
-I used to call myself a young and inexperienced web developer with big dreams 👊
+I'm a Senior Laravel Engineer with 9+ years of experience building SaaS platforms, business applications and AI-powered products for companies across Europe.
 
-Time has passed ⏳
-Now, I have the experience 💻
-I run my own company (Twirelab), and my dreams? They’ve only gotten bigger 🌍.
+`My strength isn't simply writing code - it's delivering products that solve business problems.`
 
-I help businesses build great web applications ⚡, combining Laravel, AdonisJS, Nuxt.js, Next.js, and Gatsby with a strong focus on performance and scalability 🔥.
+I combine deep Laravel expertise with modern AI workflows to dramatically accelerate software delivery while maintaining high quality through testing, automation and pragmatic architecture.
+
+Over the past few years I've increasingly focused on AI-first development, building intelligent products, AI agents and automation systems that help companies move faster without sacrificing maintainability.
+
+I enjoy taking ownership - from architecture and technical decisions to working directly with stakeholders and shipping production-ready software.
 
 ---
 
